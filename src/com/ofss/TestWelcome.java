@@ -7,6 +7,7 @@ public class TestWelcome {
 		System.out.println("2nd line");
 		System.out.println("Built using github-jenkins pipeline");
 		System.out.println("After updating the public url again");
+		System.out.println("This is the last line");
 
 	}
 
